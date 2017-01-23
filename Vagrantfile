@@ -2,9 +2,9 @@ require 'yaml'
 require 'fileutils'
 
 domains = {
-  frontend: 'sunday.dev',
-  backend:  'admin.sunday.dev',
-  static:  'static.sunday.dev'
+  frontend: 'pts2017.dev',
+  backend:  'admin.pts2017.dev',
+  static:  'static.pts2017.dev'
 }
 
 config = {
